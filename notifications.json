@@ -1,0 +1,20 @@
+{
+  "check_interval_seconds": 30,
+  "notifications": [
+    {
+      "title": "Morning Update",
+      "message": "Check emails and review your tasks for the day.",
+      "time": "09:00"
+    },
+    {
+      "title": "Lunch Break",
+      "message": "Take a short break and stay hydrated.",
+      "time": "12:30"
+    },
+    {
+      "title": "Wrap Up",
+      "message": "Close open tasks and prepare for the next session.",
+      "time": "17:30"
+    }
+  ]
+}
